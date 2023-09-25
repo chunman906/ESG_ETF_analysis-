@@ -23,6 +23,6 @@ For those looking to navigate through our analysis:
 1. Begin by examining the raw datasets provided.
 2. Dive into the Python scripts for a detailed walkthrough of our data cleaning, processing, and analysis.
 3. Visual representations are best viewed in our Python scrpits and Power BI dashboards, providing a graphical comparison between ESG and traditional ETFs.
-4. For in-depth statistical analysis, our SQL queries and Excel worksheets are also available.
-
+4. For in-depth individual ETF analysis, our SQL queries and Excel worksheets are also available.
+5. All-in-one go analysis can be viewed via Powerpoint provided.
 
