@@ -1,0 +1,14 @@
+For ESG ETF performance presentation:
+- we're comparing the long term return between the combined markets return of ESG and Non-ESG ETF.
+- It shows that ESG is slightly better but the difference is very small.
+- However if we go dive into the specific market and specific , there are more difference.
+- For the excess return it shows the ESG vs Non-ESG on each market, and we can see that the US and European markts deliver positive
+  excess return while emerging and global markets are slightly neagative on that.
+- If we compare different markets, the US and Europe also deliver higher return in 5 years.
+- In here, we further zoom into the economic recession time during 2007-2009, so the ESG ETF in US market also performing slightly better, 
+  and we can see the different economic cycling may have more difference on the ESG vs Non-ESG performance.
+- If we look at each market, it seems that the European market is more different between ESG and Non ESG.
+- In the correlation ratio comparision with Heatmap, the Europe market also has lower correlation.
+- If we further look at S.D., the Europe market also has lowest volitility risk while US is the highest.
+- Looking at Sharp ratio, the US ETF still performing the best as the returns is much higher, and if compare with 
+  Information ratio we can see the US and European markets deliver better risk adjusted return performance.
