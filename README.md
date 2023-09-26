@@ -2,8 +2,10 @@
 
 ## Overview
 This project conducts a comprehensive data analysis on ESG (Environmental, Social, and Governance) ETFs, comparing their returns to traditional ETFs across various markets.
-![project_theme](./photo/cover_photo.jpg)
-![project_theme](./photo/ESG_photo.jpg)
+<p float="left">
+  <img src="./photo/cover_photo.jpg" width="400" />
+  <img src="./photo/ESG_photo.jpg" width="400" /> 
+</p>
 
 ## Key Features
 - **Data Sources**: Main datasets were procured from Yahoo Finance and etf.com.
