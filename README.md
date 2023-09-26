@@ -4,7 +4,7 @@
 This project conducts a comprehensive data analysis on ESG (Environmental, Social, and Governance) ETFs, comparing their returns to traditional ETFs across various markets.
 <p float="left">
   <img src="./photo/cover_photo.jpg" width="400" />
-  <img src="./photo/ESG_photo.png" width="400" height="300" /> 
+  <img src="./photo/ESG_photo.png" height="250" width="400" /> 
 </p>
 
 ## Key Features
@@ -19,7 +19,7 @@ This project conducts a comprehensive data analysis on ESG (Environmental, Socia
   - Information Ratio (both representing risk-adjusted returns)
   <p float="left">
     <img src="./photo/excess_return_all_markets.png" width="400" />
-    <img src="./photo/sharp_ratio_all_markets.png" width="300" /> 
+    <img src="./photo/sharp_ratio_all_markets.png" width="350" /> 
   </p>
 
 ## Key Findings
